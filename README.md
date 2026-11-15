@@ -1,4 +1,4 @@
-# Chuong Nguyen (`@chuongnx`)
+# Chuong Ngo (`@chuongnx`)
 **Systems & Low-Latency Infrastructure Engineer**
 
 Building high-throughput distributed architectures, real-time streaming pipelines, and mission-critical database tooling with **Go**, **C/C++**, and **In-Memory Databases**.
