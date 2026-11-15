@@ -30,7 +30,8 @@ Bridging a long-standing gap in the Go ecosystem, **`go-ttdb`** is the first com
 ---
 
 ### 📫 Connect
-* **GitHub:** [github.com/chuongnx](https://github.com/chuongnx)
+* **GitHub:** [github.com/chuongnx](chuongnx.github.io)
+* **Email:** [chuongnx@gmail.com](chuongnx@gmail.com)
 * **Go Packages:** [pkg.go.dev/github.com/chuongnx](https://pkg.go.dev/github.com/chuongnx)
 
 ---
